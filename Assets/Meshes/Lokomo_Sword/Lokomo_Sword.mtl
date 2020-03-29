@@ -1,0 +1,24 @@
+newmtl mt_swB
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_swB.png
+map_Kd mt_swB.png
+map_d mt_swB.png
+newmtl mt_swdB_metalA
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_swdB_metalA.png
+map_Kd mt_swdB_metalA.png
+map_d mt_swdB_metalA.png
+newmtl mt_swdB_tri
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 0.483871
+Tr 0.483871
+map_Ka mt_swdB_tri.png
+map_Kd mt_swdB_tri.png
+map_d mt_swdB_tri.png

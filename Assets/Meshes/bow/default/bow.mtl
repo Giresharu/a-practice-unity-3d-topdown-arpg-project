@@ -1,0 +1,8 @@
+newmtl bow_mat
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka bow_mat.png
+map_Kd bow_mat.png
+map_d bow_mat.png
